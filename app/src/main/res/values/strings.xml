@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fitness Tracker</string>
+    <string name="label_imc">IMC</string>
+    <string name="weight">Peso (kg)</string>
+    <string name="height">Altura (cm)</string>
+    <string name="imc_desc">IMC é a sigla para Índice de Massa Corporal que serve para avaliar o peso do indivíduo em relação à sua altura e assim indicar se está dentro do peso ideal, acima ou abaixo do peso desejado.\n\nPreencha os campos de peso e altura para descobrir o seu IMC</string>
+    <string name="calc">Calcular</string>
+    <string name="fields_message">Os campos devem ser preenchidos e diferentes de zero</string>
+    <string name="imc_severely_low_weight">Severamente abaixo do peso</string>
+    <string name="imc_very_low_weight">Muito abaixo do peso</string>
+    <string name="imc_low_weight">Abaixo do peso</string>
+    <string name="normal">Normal</string>
+    <string name="imc_high_weight">Acima do peso</string>
+    <string name="imc_so_high_weight">Moderadamente obeso</string>
+    <string name="imc_severely_high_weight">Severamente obeso</string>
+    <string name="imc_extreme_weight">Extremamente obeso</string>
+    <string name="imc_result">IMC: %1$.2f</string>
+    <string name="ndc_result_title">NDC:</string>
+    <string name="ndc_result">%1$.2f calorias </string>
+    <string name="label_ndc">NDC</string>
+    <string name="ndc_desc">NDC é o cálculo que indica a Necessidade Diária de Calorias para o corpo, levando em consideração a energia para manter as funções do organismo e os exercícios físicos realizados.\n\nPreencha os campos abaixo para descobrir a sua NDC </string>
+    <string name="age">Idade (anos)</string>
+    <string name="save">salvar</string>
+    <string name="list_calc_response">Resultado: %1$.2f  -  Data: %2$s</string>
+    <string name="search">Registros</string>
+    <string name="edit_calc_title">Editar o cálculo?</string>
+    <string name="delete_calc_title">Excluir o registro?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
+</resources>
